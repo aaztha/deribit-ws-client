@@ -1,0 +1,33 @@
+# Ignore build files
+build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Visual Studio / VS Code project files
+*.sln
+*.vcxproj*
+*.user
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Local database
+deribit_data.db
+
+# Logs
+*.log
+
+#Credentials
+config.json
+
