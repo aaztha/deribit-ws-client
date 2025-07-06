@@ -1,0 +1,12 @@
+{
+    "client_id": "tAPtNb_S",
+    "client_secret": "a_3A122PscCMTTCBkqHnGyw0uZkXwZsu_Llc1BEHQhI",
+    "expiry_date": "26JUN26",
+    "instruments": [
+        "ETH-8JUL25-2700-C",
+        "BTC-11JUL25-65000-C",
+        "BTC-26JUN26-66000-C",
+        "BTC-26JUN26-64000-P",
+        "BTC-26JUN26-65000-P"
+    ]
+}
