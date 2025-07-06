@@ -12,14 +12,15 @@ This project implements a C++ client to:
 ## Build Instructions:
 
 ### Dependencies:
-- C++17
+-  C++17
 - CMake
-- nlohmann/json
-- ixwebsocket
-- cpr
-- sqlite3
+- `nlohmann/json`
+- `ixwebsocket`
+- `cpr`
+- `sqlite3`
 
 ### Build
+```bash
 mkdir build
 cd build
 cmake ..
